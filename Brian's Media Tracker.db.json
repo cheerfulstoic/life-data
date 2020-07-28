@@ -52,30 +52,30 @@
       "hex_color": "#00B159",
       "definitions": [
         {
+          "_id": "e5a103b0-d0ee-11ea-adab-5f3456d2b1c5",
           "name": "Name",
           "type": "string",
-          "_id": "e5a103b0-d0ee-11ea-adab-5f3456d2b1c5",
           "unique_id": true
         },
         {
+          "_id": "ead51b50-d0ee-11ea-adab-5f3456d2b1c5",
           "name": "Recommended by",
-          "type": "string",
-          "_id": "ead51b50-d0ee-11ea-adab-5f3456d2b1c5"
+          "type": "string"
         },
         {
+          "_id": "f8b66bc0-d0ee-11ea-adab-5f3456d2b1c5",
           "name": "Notes",
-          "type": "text_area",
-          "_id": "f8b66bc0-d0ee-11ea-adab-5f3456d2b1c5"
+          "type": "text_area"
         },
         {
+          "_id": "fecd1b30-d0ee-11ea-adab-5f3456d2b1c5",
           "name": "URL",
-          "type": "string",
-          "_id": "fecd1b30-d0ee-11ea-adab-5f3456d2b1c5"
+          "type": "string"
         },
         {
+          "_id": "062635b0-d0ef-11ea-adab-5f3456d2b1c5",
           "name": "Seen?",
           "type": "select_one",
-          "_id": "062635b0-d0ef-11ea-adab-5f3456d2b1c5",
           "options": [
             "Yes"
           ]
@@ -140,7 +140,30 @@
         "Recommended by": "Casey Neistat"
       },
       {
-        "_id": "b5fea5e0-d0ee-11ea-adab-5f3456d2b1c5"
+        "_id": "b5fea5e0-d0ee-11ea-adab-5f3456d2b1c5",
+        "Name": "Icarus",
+        "Recommended by": "Don Abney",
+        "Notes": "Netflix - \"Finally got time to sit and watch Icarus on Netflix. I don’t think I moved for the entire 2 hours. And now my brain is a little bent\"",
+        "URL": "https://www.netflix.com/title/80168079"
+      },
+      {
+        "_id": "a14d99c0-d0ef-11ea-8d10-7d109e8388bb",
+        "Name": "Logan",
+        "Recommended by": "",
+        "Notes": "Supposedly very good",
+        "URL": "https://www.rottentomatoes.com/m/logan_2017"
+      },
+      {
+        "_id": "1ac6b520-d0f0-11ea-8d10-7d109e8388bb",
+        "Name": "2040",
+        "URL": "https://m.imdb.com/title/tt7150512/",
+        "Notes": "\"Practical solutions to environmental concerns are addressed with the hope that the filmmaker's daughter, 21 years old in the year 2040, will face a hopeful future\""
+      },
+      {
+        "_id": "2ae87fb0-d0f0-11ea-8d10-7d109e8388bb",
+        "Name": "Primer",
+        "Notes": "Primer is a 2004 American science fiction film about the accidental discovery of time travel.",
+        "URL": "https://en.wikipedia.org/wiki/Primer_(film)"
       }
     ],
     "TV": [
@@ -149,6 +172,19 @@
         "Name": "Dark",
         "URL": "https://www.netflix.com/watch/80114790?trackId=13752289&tctx=0%2C0%2C8ebe62969d433cb94ac2d1d533d0217de5bb8faa%3A5474d48eac9bf64f1103f2c6b478e9d650dbc7a1%2C8ebe62969d433cb94ac2d1d533d0217de5bb8faa%3A5474d48eac9bf64f1103f2c6b478e9d650dbc7a1%2C%2C",
         "Recommended by": "Tom & Terry"
+      },
+      {
+        "_id": "7d7d5b70-d0ef-11ea-8d10-7d109e8388bb",
+        "Name": "Poetry in America",
+        "Recommended by": "https://kottke.org/18/04/poetry-in-america-series-on-pbs",
+        "URL": ""
+      },
+      {
+        "_id": "c43b1930-d0ef-11ea-8d10-7d109e8388bb",
+        "Name": "Blue Planet II",
+        "Recommended by": "https://www.theguardian.com/environment/2018/nov/13/the-plastic-backlash-whats-behind-our-sudden-rage-and-will-it-make-a-difference",
+        "Notes": "\"The plastic backlash: what's behind our sudden rage – and will it make a difference?\"",
+        "URL": "https://www.amazon.com/Blue-Planet-II/dp/B078T1J231"
       }
     ]
   }
