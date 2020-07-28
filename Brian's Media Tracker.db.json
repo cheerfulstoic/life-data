@@ -125,9 +125,9 @@
           ]
         },
         {
+          "_id": "a39c0680-d103-11ea-863a-a74fa9805a15",
           "name": "Type",
           "type": "select_one",
-          "_id": "a39c0680-d103-11ea-863a-a74fa9805a15",
           "options": [
             "Fiction",
             "Non-Fiction",
@@ -351,6 +351,76 @@
         "Name": "Self-Made Man: One Woman's Year Disguised as a Man",
         "URL": "https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised-ebook/dp/B000OT8GTE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
         "Type": "Non-Fiction"
+      },
+      {
+        "_id": "e311f260-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Fatherland",
+        "Recommended by": "GabFest",
+        "URL": "https://www.amazon.com/Fatherland-25th-Anniversary-Robert-Harris-ebook/dp/B0089WCFAY/ref=redir_mobile_desktop?ie=UTF8&fp=1&noEncodingTag=1&pc_redir=T1&redirectFromSS=1",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "e5479710-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Blindsight",
+        "Recommended by": "Reddit",
+        "URL": "https://www.amazon.com/Blindsight-Firefall-Peter-Watts-ebook/dp/B003K15EKM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "Type": "Fiction",
+        "Notes": "\"Blindsight is the Hugo Award–nominated novel by Peter Watts, \"a hard science fiction writer through and through and one of the very best alive\" (The Globe and Mail).\"\n\n\"Two months have past since a myriad of alien objects clenched about the Earth, screaming as they burned....\""
+      },
+      {
+        "_id": "e58c1a20-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Guns, Germs, and Steel",
+        "Type": "Non-Fiction",
+        "Recommended by": "CGP Grey",
+        "Notes": "https://www.youtube.com/watch?v=JEYh5WACqEk"
+      },
+      {
+        "_id": "e5d7a210-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Essentialism: The Disciplined Pursuit of Less",
+        "Recommended by": "CGP Grey",
+        "URL": "https://www.amazon.com/gp/product/B00G1J1D28/ref=dp-kindle-redirect?ie=UTF8&btkr=1",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "e61c7340-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Bowling alone",
+        "Recommended by": "Zoe Frank talked about it",
+        "URL": "https://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/0743203046",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "e670d4d0-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Sun of Suns: Book One of Virga Series",
+        "Recommended by": "CGP Grey on Audible ad",
+        "URL": "https://www.amazon.com/Sun-Suns-Book-One-Virga-ebook/dp/B0015UB10W/ref=redir_mobile_desktop?ie=UTF8&qid=&ref_=tmm_kin_title_0&sr=",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "e6b530d0-d104-11ea-af9f-1306a5e543cf",
+        "Name": "The Botany of Desire: A Plant's-Eye View of the World by Michael Pollan",
+        "Recommended by": "Jason Kottke’s favorite Michael Pollan book",
+        "URL": "https://www.amazon.co.uk/s?k=The+Botany+of+Desire%3A+A+Plant%27s-Eye+View+of+the+World&linkCode=gs3&tag=0sil8-21&ref=nosim",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "e7026670-d104-11ea-af9f-1306a5e543cf",
+        "Name": "The Design of Everyday Things",
+        "URL": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "e743dc40-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Inside Job by Connie Willis",
+        "Recommended by": "Amanda Warner",
+        "URL": "https://www.amazon.com/Inside-Job-Connie-Willis-ebook/dp/B004Q9TFP2",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "e78a8230-d104-11ea-af9f-1306a5e543cf",
+        "Name": "Wonderland: How Play Made the Modern World",
+        "Type": "Non-Fiction",
+        "Recommended by": "Kottke",
+        "URL": "https://www.amazon.co.uk/dp/0399184481/ref=nosim?linkCode=gs2&tag=0sil8-21"
       }
     ]
   }
