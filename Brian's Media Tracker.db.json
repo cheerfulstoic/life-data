@@ -97,31 +97,41 @@
       "hex_color": "#00AEDB",
       "definitions": [
         {
+          "_id": "24515070-d102-11ea-b218-2bc72fde9bb1",
           "name": "Name",
-          "type": "string",
-          "_id": "24515070-d102-11ea-b218-2bc72fde9bb1"
+          "type": "string"
         },
         {
+          "_id": "2902ca90-d102-11ea-b218-2bc72fde9bb1",
           "name": "Recommended by",
-          "type": "string",
-          "_id": "2902ca90-d102-11ea-b218-2bc72fde9bb1"
+          "type": "string"
         },
         {
+          "_id": "294ad010-d102-11ea-b218-2bc72fde9bb1",
           "name": "Notes",
-          "type": "text_area",
-          "_id": "294ad010-d102-11ea-b218-2bc72fde9bb1"
+          "type": "text_area"
         },
         {
+          "_id": "2999b360-d102-11ea-b218-2bc72fde9bb1",
           "name": "URL",
-          "type": "string",
-          "_id": "2999b360-d102-11ea-b218-2bc72fde9bb1"
+          "type": "string"
         },
         {
+          "_id": "29d5f910-d102-11ea-b218-2bc72fde9bb1",
           "name": "Read?",
           "type": "select_one",
-          "_id": "29d5f910-d102-11ea-b218-2bc72fde9bb1",
           "options": [
             "Yes"
+          ]
+        },
+        {
+          "name": "Type",
+          "type": "select_one",
+          "_id": "a39c0680-d103-11ea-863a-a74fa9805a15",
+          "options": [
+            "Fiction",
+            "Non-Fiction",
+            "Professional Enrichment"
           ]
         }
       ],
@@ -130,7 +140,8 @@
         "2902ca90-d102-11ea-b218-2bc72fde9bb1",
         "294ad010-d102-11ea-b218-2bc72fde9bb1",
         "2999b360-d102-11ea-b218-2bc72fde9bb1",
-        "29d5f910-d102-11ea-b218-2bc72fde9bb1"
+        "29d5f910-d102-11ea-b218-2bc72fde9bb1",
+        "a39c0680-d103-11ea-863a-a74fa9805a15"
       ],
       "definition_ids_referring_to_sheet_to_display": [],
       "display_referencers": true
@@ -208,6 +219,12 @@
         "Name": "Primer",
         "Notes": "Primer is a 2004 American science fiction film about the accidental discovery of time travel.",
         "URL": "https://en.wikipedia.org/wiki/Primer_(film)"
+      },
+      {
+        "_id": "c114ff60-d102-11ea-863a-a74fa9805a15",
+        "Name": "Dirty Dancing",
+        "Recommended by": "https://www.theguardian.com/commentisfree/2017/aug/31/dirty-dancing-never-made-today-abortion-religion-class-hollywood",
+        "URL": "https://www.imdb.com/title/tt0092890/"
       }
     ],
     "TV": [
@@ -235,7 +252,105 @@
       {
         "_id": "6464d150-d102-11ea-b218-2bc72fde9bb1",
         "Name": "Bored and Brilliant",
-        "URL": "https://www.amazon.com/Bored-Brilliant-Spacing-Productive-Creative-ebook/dp/B06VTZYPTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+        "URL": "https://www.amazon.com/Bored-Brilliant-Spacing-Productive-Creative-ebook/dp/B06VTZYPTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "aad3f9e0-d102-11ea-863a-a74fa9805a15",
+        "Name": "Better Than Before: What I Learned About Making and Breaking Habits--to Sleep More, Quit Sugar, Procrastinate Less, and Generally Build a Happier Life",
+        "Recommended by": "Amanda Warner",
+        "URL": "https://www.amazon.com/Better-Than-Before-Habits-Procrastinate/dp/0385348630",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "d5d5f490-d102-11ea-863a-a74fa9805a15",
+        "Name": "Automating Inequality",
+        "URL": "https://www.amazon.com/Automating-Inequality-High-Tech-Profile-Police-ebook/dp/B0739MF8VF?SubscriptionId=AKIAIXFKFJI6IH6DO5KQ&amp;tag=kirkus-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0739MF8VF",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "e0923740-d102-11ea-863a-a74fa9805a15",
+        "Name": "Deep Work",
+        "Recommended by": "Amanda Warner",
+        "Notes": "\"Ask Amanda where to skip to to skip the crap\"",
+        "URL": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "Read?": "Yes",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "f0560350-d102-11ea-863a-a74fa9805a15",
+        "Name": "An Astronout's Guide to Life on Earth",
+        "URL": "https://www.amazon.com/Astronauts-Guide-Life-Earth-Determination-ebook/dp/B00DTUHIDA?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect",
+        "Notes": "\"For insight into the working culture at NASA\"",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "fade8bd0-d102-11ea-863a-a74fa9805a15",
+        "Name": "Ender \"Shadow Series\"",
+        "Notes": "Shadows in Flight and Shadows Alive",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "04d02b80-d103-11ea-863a-a74fa9805a15",
+        "Name": "Pride and Prejudice and/or Persuasion",
+        "Notes": "Because I haven't read any of her books",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "14004310-d103-11ea-863a-a74fa9805a15",
+        "Name": "Me Before You",
+        "Recommended by": "Amanda Warner",
+        "URL": "https://www.amazon.com/Me-Before-You-Jojo-Moyes-ebook/dp/B0089EHWQE/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "144d9fc0-d103-11ea-863a-a74fa9805a15",
+        "Name": "The Soul of a New Machine",
+        "URL": "https://www.amazon.co.uk/Soul-New-Machine-Tracy-Kidder-ebook/dp/B00FOQS8AO/ref=sr_1_1?dchild=1&keywords=The+Soul+of+A+New+Machine&linkCode=gs3&qid=1595962513&sr=8-1&tag=0sil8-21",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "147d8960-d103-11ea-863a-a74fa9805a15",
+        "URL": "https://en.wikipedia.org/wiki/The_Blind_Assassin",
+        "Name": "The Blind Assasin",
+        "Recommended by": "Erik Pukinskis",
+        "Notes": "Erik says he \"hated it until the end\"",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "1495cc50-d103-11ea-863a-a74fa9805a15",
+        "Name": "The Brothers Karamazov",
+        "Recommended by": "reddit",
+        "URL": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "14abc550-d103-11ea-863a-a74fa9805a15",
+        "URL": "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front",
+        "Recommended by": "reddit",
+        "Name": "All Quiet on the Western Front",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "14c085d0-d103-11ea-863a-a74fa9805a15",
+        "Name": "Flatland",
+        "Recommended by": "reddit (and elsewhere)",
+        "URL": "https://en.wikipedia.org/wiki/Flatland",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "699d6050-d103-11ea-863a-a74fa9805a15",
+        "Name": "The Secret Magdalene: A Novel",
+        "Recommended by": "Max Edwards",
+        "Notes": "Max: \"Sacreligious\"",
+        "URL": "https://www.amazon.com/The-Secret-Magdalene-A-Novel/dp/0307346676",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "7b33f090-d103-11ea-863a-a74fa9805a15",
+        "Name": "Self-Made Man: One Woman's Year Disguised as a Man",
+        "URL": "https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised-ebook/dp/B000OT8GTE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=",
+        "Type": "Non-Fiction"
       }
     ]
   }
