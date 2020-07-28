@@ -90,6 +90,50 @@
       ],
       "definition_ids_referring_to_sheet_to_display": [],
       "display_referencers": true
+    },
+    "Books": {
+      "_id": "1f906d00-d102-11ea-b218-2bc72fde9bb1",
+      "name": "Books",
+      "hex_color": "#00AEDB",
+      "definitions": [
+        {
+          "name": "Name",
+          "type": "string",
+          "_id": "24515070-d102-11ea-b218-2bc72fde9bb1"
+        },
+        {
+          "name": "Recommended by",
+          "type": "string",
+          "_id": "2902ca90-d102-11ea-b218-2bc72fde9bb1"
+        },
+        {
+          "name": "Notes",
+          "type": "text_area",
+          "_id": "294ad010-d102-11ea-b218-2bc72fde9bb1"
+        },
+        {
+          "name": "URL",
+          "type": "string",
+          "_id": "2999b360-d102-11ea-b218-2bc72fde9bb1"
+        },
+        {
+          "name": "Read?",
+          "type": "select_one",
+          "_id": "29d5f910-d102-11ea-b218-2bc72fde9bb1",
+          "options": [
+            "Yes"
+          ]
+        }
+      ],
+      "definition_ids_to_display": [
+        "24515070-d102-11ea-b218-2bc72fde9bb1",
+        "2902ca90-d102-11ea-b218-2bc72fde9bb1",
+        "294ad010-d102-11ea-b218-2bc72fde9bb1",
+        "2999b360-d102-11ea-b218-2bc72fde9bb1",
+        "29d5f910-d102-11ea-b218-2bc72fde9bb1"
+      ],
+      "definition_ids_referring_to_sheet_to_display": [],
+      "display_referencers": true
     }
   },
   "records": {
@@ -185,6 +229,13 @@
         "Recommended by": "https://www.theguardian.com/environment/2018/nov/13/the-plastic-backlash-whats-behind-our-sudden-rage-and-will-it-make-a-difference",
         "Notes": "\"The plastic backlash: what's behind our sudden rage – and will it make a difference?\"",
         "URL": "https://www.amazon.com/Blue-Planet-II/dp/B078T1J231"
+      }
+    ],
+    "Books": [
+      {
+        "_id": "6464d150-d102-11ea-b218-2bc72fde9bb1",
+        "Name": "Bored and Brilliant",
+        "URL": "https://www.amazon.com/Bored-Brilliant-Spacing-Productive-Creative-ebook/dp/B06VTZYPTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
       }
     ]
   }
