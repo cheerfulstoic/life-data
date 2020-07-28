@@ -7,32 +7,41 @@
       "hex_color": "#D11141",
       "definitions": [
         {
+          "_id": "18c86660-d0eb-11ea-ad0e-093dac832e53",
           "name": "Name",
           "type": "string",
-          "_id": "18c86660-d0eb-11ea-ad0e-093dac832e53",
           "unique_id": true
         },
         {
+          "_id": "1a624040-d0eb-11ea-ad0e-093dac832e53",
           "name": "Recommended by",
-          "type": "string",
-          "_id": "1a624040-d0eb-11ea-ad0e-093dac832e53"
+          "type": "string"
         },
         {
+          "_id": "2f48e5e0-d0eb-11ea-ad0e-093dac832e53",
           "name": "Notes",
-          "type": "text_area",
-          "_id": "2f48e5e0-d0eb-11ea-ad0e-093dac832e53"
+          "type": "text_area"
         },
         {
+          "_id": "49caa250-d0eb-11ea-ad0e-093dac832e53",
           "name": "URL",
-          "type": "string",
-          "_id": "49caa250-d0eb-11ea-ad0e-093dac832e53"
+          "type": "string"
+        },
+        {
+          "name": "Seen?",
+          "type": "select_one",
+          "_id": "55b25030-d0ec-11ea-9d6e-27590078385b",
+          "options": [
+            "Yes"
+          ]
         }
       ],
       "definition_ids_to_display": [
         "18c86660-d0eb-11ea-ad0e-093dac832e53",
         "1a624040-d0eb-11ea-ad0e-093dac832e53",
         "2f48e5e0-d0eb-11ea-ad0e-093dac832e53",
-        "49caa250-d0eb-11ea-ad0e-093dac832e53"
+        "49caa250-d0eb-11ea-ad0e-093dac832e53",
+        "55b25030-d0ec-11ea-9d6e-27590078385b"
       ],
       "definition_ids_referring_to_sheet_to_display": [],
       "display_referencers": true
@@ -66,7 +75,27 @@
         "_id": "5c171510-d0eb-11ea-ad0e-093dac832e53",
         "Name": "Source Code",
         "Recommended by": "https://medium.com/applaudience/20-of-the-best-sci-fi-films-from-the-last-20-years-6ce713a5c67d",
-        "Notes": "The film is mind-bending and thrilling. It has ethical dilemmas, timeline tricks, and an ending that explores the universe in an interesting way as well.\n\nThe movie was a complete breath of fresh air when it came out. The film industry had been slumping a little from the writers strike a few years prior and I remember being disappointed with almost every film I went to see until Source Code came out in 2011."
+        "Notes": "\"The film is mind-bending and thrilling. It has ethical dilemmas, timeline tricks, and an ending that explores the universe in an interesting way as well.\"\n\n\"The movie was a complete breath of fresh air when it came out. The film industry had been slumping a little from the writers strike a few years prior and I remember being disappointed with almost every film I went to see until Source Code came out in 2011.\""
+      },
+      {
+        "_id": "74537ff0-d0ec-11ea-9d6e-27590078385b",
+        "Name": "Children of Men",
+        "Recommended by": "??",
+        "Notes": "\"Children of Men is a 2006 dystopian science fiction action-thriller film\"",
+        "URL": "https://en.wikipedia.org/wiki/Children_of_Men"
+      },
+      {
+        "_id": "98380990-d0ec-11ea-9d6e-27590078385b",
+        "Name": "Her",
+        "Notes": "\"Her is a 2013 American science-fiction romantic drama film written, directed, and produced by Spike Jonze\"",
+        "URL": "https://en.wikipedia.org/wiki/Her_(film)"
+      },
+      {
+        "_id": "ad389fd0-d0ec-11ea-9d6e-27590078385b",
+        "Name": "Marjorie Prime",
+        "URL": "https://www.rottentomatoes.com/m/marjorie_prime",
+        "Recommended by": "??",
+        "Notes": "\"Marjorie Prime is an American science-fiction film written and directed by Michael Almereyda, based on Jordan Harrison's play of the same name\""
       }
     ],
     "Sheet #2": []
