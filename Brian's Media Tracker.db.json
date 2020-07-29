@@ -152,37 +152,37 @@
       "hex_color": "#F37735",
       "definitions": [
         {
+          "_id": "25e89530-d1a5-11ea-82f1-8720370edabd",
           "name": "Name",
-          "type": "string",
-          "_id": "25e89530-d1a5-11ea-82f1-8720370edabd"
+          "type": "string"
         },
         {
+          "_id": "266f0340-d1a5-11ea-82f1-8720370edabd",
           "name": "Recommended by",
-          "type": "string",
-          "_id": "266f0340-d1a5-11ea-82f1-8720370edabd"
+          "type": "string"
         },
         {
+          "_id": "4131e760-d1a5-11ea-82f1-8720370edabd",
           "name": "Notes",
-          "type": "text_area",
-          "_id": "4131e760-d1a5-11ea-82f1-8720370edabd"
+          "type": "text_area"
         },
         {
+          "_id": "418389d0-d1a5-11ea-82f1-8720370edabd",
           "name": "URL ",
-          "type": "string",
-          "_id": "418389d0-d1a5-11ea-82f1-8720370edabd"
+          "type": "string"
         },
         {
+          "_id": "41ecfa00-d1a5-11ea-82f1-8720370edabd",
           "name": "Read?",
           "type": "select_one",
-          "_id": "41ecfa00-d1a5-11ea-82f1-8720370edabd",
           "options": [
             "Yes"
           ]
         },
         {
+          "_id": "424700e0-d1a5-11ea-82f1-8720370edabd",
           "name": "Type (?)",
           "type": "select_one",
-          "_id": "424700e0-d1a5-11ea-82f1-8720370edabd",
           "options": [
             "iOS",
             "Computer"
@@ -607,6 +607,21 @@
         "Name": "Lock In: A Novel of the Near Future (Lock In Series Book 1) ",
         "Recommended by": "Tim Yulish",
         "Type": "Fiction"
+      },
+      {
+        "_id": "2c0eb880-d1a6-11ea-94f2-79a31617d840",
+        "Name": "We Are Legion (We Are Bob): Bobiverse, Book 1",
+        "Recommended by": "Real Engineering",
+        "Notes": "Real Engineering: “Hilariously Funny”",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "412a9ef0-d1a6-11ea-94f2-79a31617d840",
+        "Name": "The Book of Delights",
+        "Recommended by": "This American Life",
+        "Notes": "",
+        "URL": "https://www.amazon.com/Book-Delights-Essays-Ross-Gay/dp/1616207922",
+        "Type": "Non-Fiction"
       }
     ],
     "Electronic Games": [
@@ -628,6 +643,19 @@
         "URL ": "https://apps.apple.com/us/app/journey/id1445593893",
         "Name": "Journey",
         "Type (?)": "iOS"
+      },
+      {
+        "_id": "fa2ccaf0-d1a5-11ea-94f2-79a31617d840",
+        "Name": "Thomas Was Alone",
+        "URL ": "https://apps.apple.com/us/app/thomas-was-alone/id849095637",
+        "Type (?)": "iOS"
+      },
+      {
+        "_id": "0db42eb0-d1a6-11ea-94f2-79a31617d840",
+        "URL ": "https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown",
+        "Name": "UFO: Enemy Unknown",
+        "Notes": "Scott Manley says “Worth your time.  It is such a perfect game”",
+        "Recommended by": "Scott Manley"
       }
     ]
   }
