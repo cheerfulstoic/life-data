@@ -145,6 +145,60 @@
       ],
       "definition_ids_referring_to_sheet_to_display": [],
       "display_referencers": true
+    },
+    "Electronic Games": {
+      "_id": "17486190-d1a5-11ea-82f1-8720370edabd",
+      "name": "Electronic Games",
+      "hex_color": "#F37735",
+      "definitions": [
+        {
+          "name": "Name",
+          "type": "string",
+          "_id": "25e89530-d1a5-11ea-82f1-8720370edabd"
+        },
+        {
+          "name": "Recommended by",
+          "type": "string",
+          "_id": "266f0340-d1a5-11ea-82f1-8720370edabd"
+        },
+        {
+          "name": "Notes",
+          "type": "text_area",
+          "_id": "4131e760-d1a5-11ea-82f1-8720370edabd"
+        },
+        {
+          "name": "URL ",
+          "type": "string",
+          "_id": "418389d0-d1a5-11ea-82f1-8720370edabd"
+        },
+        {
+          "name": "Read?",
+          "type": "select_one",
+          "_id": "41ecfa00-d1a5-11ea-82f1-8720370edabd",
+          "options": [
+            "Yes"
+          ]
+        },
+        {
+          "name": "Type (?)",
+          "type": "select_one",
+          "_id": "424700e0-d1a5-11ea-82f1-8720370edabd",
+          "options": [
+            "iOS",
+            "Computer"
+          ]
+        }
+      ],
+      "definition_ids_to_display": [
+        "25e89530-d1a5-11ea-82f1-8720370edabd",
+        "266f0340-d1a5-11ea-82f1-8720370edabd",
+        "4131e760-d1a5-11ea-82f1-8720370edabd",
+        "418389d0-d1a5-11ea-82f1-8720370edabd",
+        "41ecfa00-d1a5-11ea-82f1-8720370edabd",
+        "424700e0-d1a5-11ea-82f1-8720370edabd"
+      ],
+      "definition_ids_referring_to_sheet_to_display": [],
+      "display_referencers": true
     }
   },
   "records": {
@@ -553,6 +607,27 @@
         "Name": "Lock In: A Novel of the Near Future (Lock In Series Book 1) ",
         "Recommended by": "Tim Yulish",
         "Type": "Fiction"
+      }
+    ],
+    "Electronic Games": [
+      {
+        "_id": "220a70a0-d1a5-11ea-82f1-8720370edabd",
+        "Name": "The Gardens Between",
+        "URL ": "https://apps.apple.com/us/app/the-gardens-between/id1371965583",
+        "Type (?)": "iOS"
+      },
+      {
+        "_id": "86a264a0-d1a5-11ea-82f1-8720370edabd",
+        "Name": "SPL-T",
+        "URL ": "https://apps.apple.com/us/app/spl-t/id1021971213",
+        "Notes": "\"We know. It doesn't look like much.\nBut we promise that it's a very good puzzle game.\nLike, really good.\"",
+        "Type (?)": "iOS"
+      },
+      {
+        "_id": "ad328640-d1a5-11ea-82f1-8720370edabd",
+        "URL ": "https://apps.apple.com/us/app/journey/id1445593893",
+        "Name": "Journey",
+        "Type (?)": "iOS"
       }
     ]
   }
