@@ -500,6 +500,59 @@
         "Recommended by": "Emily Graslie and John Green",
         "URL": "https://www.amazon.com/Contain-Multitudes-Microbes-Within-Grander-ebook/dp/B01824YMCM/ref=mt_kindle?_encoding=UTF8&me=",
         "Type": "Non-Fiction"
+      },
+      {
+        "_id": "de8c7160-d1a0-11ea-82f1-8720370edabd",
+        "Name": "The Wizard and the Prophet",
+        "Recommended by": "Kottke",
+        "Notes": "https://kottke.org/18/03/i-recommend-that-you-read-the-wizard-and-the-prophet\n\n\"Normally I shy away from terms like “must-read” or “important” when talking about books, but I’m making an exception for this one. The Wizard and the Prophet is an important book, and I urge you to read it. (The chapter on climate change, including its fascinating history, is alone worth the effort.)\"\n\nhttps://kottke.org/18/03/i-recommend-that-you-read-the-wizard-and-the-prophet",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "05f16f30-d1a1-11ea-82f1-8720370edabd",
+        "Name": "Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think",
+        "URL": "https://www.amazon.com/dp/B0756J1LLV/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "41c52380-d1a1-11ea-82f1-8720370edabd",
+        "URL": "https://www.amazon.com/dp/B01CNLOZ3G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Name": "A Closed and Common Orbit (Wayfarers Book 2)",
+        "Notes": "Maybe I should read Book 1 (The Long Way to a Small, Angry Planet) first?",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "63620710-d1a1-11ea-82f1-8720370edabd",
+        "Name": "Women of Resistance: Poems for a New Feminism",
+        "URL": "https://www.amazon.com/dp/B07B9V8RC8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "77fde810-d1a1-11ea-82f1-8720370edabd",
+        "Name": "Why I'm No Longer Talking to White People About Race",
+        "Notes": "NPR Write-Up: https://www.npr.org/2017/11/14/563728725/why-im-no-longer-talking-to-white-people-about-race-is-a-call-to-action",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "93d178e0-d1a1-11ea-82f1-8720370edabd",
+        "URL": "https://www.amazon.com/dp/B00T9LY8AO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Name": "Climate Wars: What People Will Be Killed For in the 21st Century",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "cc2f8e70-d1a1-11ea-82f1-8720370edabd",
+        "URL": "https://www.amazon.com/Old-Mans-War-John-Scalzi-ebook/dp/B000SEIK2S",
+        "Name": "Old Man's War",
+        "Recommended by": "Tim Yulish",
+        "Notes": "",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "e0a71e90-d1a1-11ea-82f1-8720370edabd",
+        "URL": "https://www.amazon.com/dp/B00IHCBE1C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Name": "Lock In: A Novel of the Near Future (Lock In Series Book 1) ",
+        "Recommended by": "Tim Yulish",
+        "Type": "Fiction"
       }
     ]
   }
