@@ -421,6 +421,85 @@
         "Type": "Non-Fiction",
         "Recommended by": "Kottke",
         "URL": "https://www.amazon.co.uk/dp/0399184481/ref=nosim?linkCode=gs2&tag=0sil8-21"
+      },
+      {
+        "_id": "442dcdd0-d19b-11ea-82f1-8720370edabd",
+        "Name": "Practical Object-Oriented Design in Ruby: An Agile Primer",
+        "Notes": "Sandi Metz!",
+        "URL": "https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "50623190-d19b-11ea-82f1-8720370edabd",
+        "Name": "The Water That Falls on You from Nowhere",
+        "Notes": "Recommended as Hugo award winner which wasn’t down to earth enough for the puppies (Not sure what this means anymore, correct-o?)",
+        "URL": "https://www.amazon.com/The-Water-That-Falls-Nowhere-ebook/dp/B00AW73TSG",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "846d67c0-d19b-11ea-82f1-8720370edabd",
+        "Name": "The Circle",
+        "URL": "https://www.amazon.com/The-Circle-Dave-Eggers/dp/0345807294",
+        "Notes": "\"When Mae Holland is hired to work for the Circle, the world’s most powerful internet company, she feels she’s been given the opportunity of a lifetime. The Circle, run out of a sprawling California campus, links users’ personal emails, social media, banking, and purchasing with their universal operating system, resulting in one online identity and a new age of civility and transparency.\"",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "9a055c00-d19b-11ea-82f1-8720370edabd",
+        "Name": "Lilith's Brood",
+        "Recommended by": "Amanda Metskas",
+        "URL": "https://en.m.wikipedia.org/wiki/Lilith%27s_Brood",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "d8affe10-d19b-11ea-82f1-8720370edabd",
+        "Name": "Crystal Society",
+        "Recommended by": "Rita on GoodReads",
+        "Type": "Fiction",
+        "URL": "https://www.goodreads.com/book/show/28678856-crystal-society?al_user=10556787-brian&utm_medium=email&utm_source=book_recommendation",
+        "Notes": ""
+      },
+      {
+        "_id": "04c73950-d19c-11ea-82f1-8720370edabd",
+        "Name": "The Prey of Gods",
+        "URL": "https://www.amazon.com/Prey-Gods-Nicky-Drayden/dp/0062493035",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "0fd9b250-d19c-11ea-82f1-8720370edabd",
+        "URL": "https://www.amazon.com/NurtureShock-New-Thinking-About-Children/dp/0446504130",
+        "Name": "NurtureShock: New Thinking About Children",
+        "Recommended by": "The Longest Shortest Time",
+        "Notes": "Apparently has a particluarly good chapter about race",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "3aeb8b80-d19c-11ea-82f1-8720370edabd",
+        "URL": "https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431",
+        "Name": "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
+        "Recommended by": "Jen",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "4747e9a0-d19c-11ea-82f1-8720370edabd",
+        "Name": "The Sandman",
+        "Recommended by": "Patrick Rothfuss",
+        "Notes": "Pat says: \"As good as anything Shakespeare has ever written\"",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "5fee7d70-d19c-11ea-82f1-8720370edabd",
+        "Name": "The Water Will Come",
+        "URL": "https://www.amazon.com/dp/B06XFL2TJF/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Notes": "“A thriller in which the hero in peril is us” - John Green (doesn’t usually find science books page turners, but this was)\n",
+        "Recommended by": "John Green",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "75e337b0-d19c-11ea-82f1-8720370edabd",
+        "Name": "I Contain Multitudes",
+        "Recommended by": "Emily Graslie and John Green",
+        "URL": "https://www.amazon.com/Contain-Multitudes-Microbes-Within-Grander-ebook/dp/B01824YMCM/ref=mt_kindle?_encoding=UTF8&me=",
+        "Type": "Non-Fiction"
       }
     ]
   }
