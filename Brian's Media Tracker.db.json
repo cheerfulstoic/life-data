@@ -671,6 +671,64 @@
         "Recommended by": "John Green",
         "URL": "https://www.amazon.com/Round-Ireland-Fridge-Tony-Hawks/dp/0312274920",
         "Type": "Non-Fiction"
+      },
+      {
+        "_id": "5876a100-d244-11ea-a427-4f54ed67219f",
+        "Name": "Good Omens",
+        "Notes": "“That isn’t just amusing – it is quietly profound. Which is the other big deal about Good Omens. Perhaps people bought it for the jokes, but my suspicion is that the novel’s gentle humanism and determined irreverence resonate with readers just as much as the one-liners. Pratchett and Gaiman are both capable of good writing – but more on that next week.”\n",
+        "URL": "",
+        "Recommended by": "https://www.theguardian.com/books/booksblog/2019/jan/15/good-omens-not-funny-neil-gaiman-terry-pratchett?CMP=share_btn_tw",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "6a871c30-d244-11ea-a427-4f54ed67219f",
+        "Name": "The Food Lab: Better Home Cooking Through Science",
+        "Type": "Non-Fiction",
+        "URL": "https://en.m.wikipedia.org/wiki/The_Food_Lab",
+        "Recommended by": "Amanda Warner",
+        "Notes": "\"Empirical cooking\""
+      },
+      {
+        "_id": "89a51d10-d244-11ea-a427-4f54ed67219f",
+        "Name": "The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It",
+        "Recommended by": "Amanda Warner",
+        "URL": "https://www.amazon.com/Upside-Stress-Why-Good-You-ebook/dp/B00OI5PGWU",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "9ba7dca0-d244-11ea-a427-4f54ed67219f",
+        "Name": "The Art of Noticing: 131 Ways to Spark Creativity, Find Inspiration, and Discover Joy in the Everyday",
+        "URL": "https://www.amazon.com/Art-Noticing-Creativity-Inspiration-Discover/dp/0525521240",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "b9f9b3e0-d244-11ea-a427-4f54ed67219f",
+        "Name": "In a Sunburned Country",
+        "Recommended by": "Steve Phillips",
+        "Notes": "\"Laughed a lot\"",
+        "URL": "https://www.goodreads.com/book/show/24.In_a_Sunburned_Country",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "dfb5bca0-d244-11ea-a427-4f54ed67219f",
+        "Name": "The Wave Watcher's Companion: Ocean Waves, Stadium Waves, and All the Rest of Life's Undulations",
+        "Recommended by": "Ana @ Fishbrain",
+        "URL": "https://www.amazon.com/Wave-Watchers-Companion-Stadium-Undulations/dp/0399536701",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "f19f75f0-d244-11ea-a427-4f54ed67219f",
+        "Name": "Overview: A New Perspective of Earth",
+        "Notes": "Coffee table book?",
+        "URL": "https://www.amazon.co.uk/Overview-Perspective-Hardcover-Landscape-Architecture/dp/B07S17PKMQ/ref=sr_1_1?dchild=1&keywords=Overview%3A+A+New+Perspective+of+Earth&linkCode=gs3&qid=1596100399&sr=8-1&tag=0sil8-21",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "003cc360-d245-11ea-a427-4f54ed67219f",
+        "Name": "The Great Gatsby",
+        "Recommended by": "John Green",
+        "Notes": "because of “Capacity for Wonder and Sunsets” episode of “The Anthropocene Reviewed”",
+        "Type": "Fiction"
       }
     ],
     "Electronic Games": [
