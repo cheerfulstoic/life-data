@@ -622,6 +622,55 @@
         "Notes": "",
         "URL": "https://www.amazon.com/Book-Delights-Essays-Ross-Gay/dp/1616207922",
         "Type": "Non-Fiction"
+      },
+      {
+        "_id": "00a42a00-d240-11ea-a427-4f54ed67219f",
+        "Name": "Ready Player One",
+        "Recommended by": "Steve Phillips",
+        "Notes": "Audiobook by Wil Wheaton",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "54030520-d242-11ea-a427-4f54ed67219f",
+        "Name": "A visual introduction to probability and statistics",
+        "URL": "https://www.amazon.com/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0804141231",
+        "Recommended by": "CGP Grey and Myke Hurley",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "6edeef80-d242-11ea-a427-4f54ed67219f",
+        "Name": "we carry the sky",
+        "Notes": "\"a collection of short-form poems, as featured on PBS Newshour & Bustle\n\n'Poem after poem is dripping with inventive language, powerful imagery, and intellectual challenges that will have readers at once celebrating and engaging in the fight for feminism.' (Bustle)\"",
+        "URL": "https://www.amazon.com/we-carry-sky-mckayla-robbin/dp/153936738X",
+        "Type": "Non-Fiction"
+      },
+      {
+        "_id": "7f76fb80-d242-11ea-a427-4f54ed67219f",
+        "URL": "https://www.amazon.com/dp/B01N3TPKRP/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "Type": "Non-Fiction",
+        "Name": "the princess saves herself in this one",
+        "Notes": "\"From Amanda Lovelace, a poetry collection in four parts\""
+      },
+      {
+        "_id": "9261d120-d242-11ea-a427-4f54ed67219f",
+        "Name": "Children of Blood and Bone",
+        "Recommended by": "John Green",
+        "Notes": "if you liked the Kingkiller Chronicles (only the first two books are out)",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "bfdce220-d242-11ea-a427-4f54ed67219f",
+        "URL": "https://www.goodreads.com/book/show/22154436-the-lady-astronaut-of-mars",
+        "Name": "The Lady Astronaut of Mars",
+        "Notes": "Hugo award winner",
+        "Type": "Fiction"
+      },
+      {
+        "_id": "b9cc7ed0-d243-11ea-a427-4f54ed67219f",
+        "Name": "Round Ireland with a Fridge",
+        "Recommended by": "John Green",
+        "URL": "https://www.amazon.com/Round-Ireland-Fridge-Tony-Hawks/dp/0312274920",
+        "Type": "Non-Fiction"
       }
     ],
     "Electronic Games": [
@@ -656,6 +705,12 @@
         "Name": "UFO: Enemy Unknown",
         "Notes": "Scott Manley says “Worth your time.  It is such a perfect game”",
         "Recommended by": "Scott Manley"
+      },
+      {
+        "_id": "722022b0-d240-11ea-a427-4f54ed67219f",
+        "Name": "LiquidSketch",
+        "URL ": "https://apps.apple.com/us/app/liquidsketch/id544717096",
+        "Notes": "Only on iPad"
       }
     ]
   }
