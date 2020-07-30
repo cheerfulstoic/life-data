@@ -173,7 +173,7 @@
         },
         {
           "_id": "41ecfa00-d1a5-11ea-82f1-8720370edabd",
-          "name": "Read?",
+          "name": "Played?",
           "type": "select_one",
           "options": [
             "Yes"
@@ -729,6 +729,14 @@
         "Recommended by": "John Green",
         "Notes": "because of “Capacity for Wonder and Sunsets” episode of “The Anthropocene Reviewed”",
         "Type": "Fiction"
+      },
+      {
+        "_id": "99ca27b0-d25f-11ea-a427-4f54ed67219f",
+        "Name": "Why Fish Don't Exist",
+        "Recommended by": "John Green",
+        "Notes": "John Green: \"Why Fish Don’t Exist is what The Anthropocene Reviewed wants to be when it grows up\"",
+        "URL": "https://www.simonandschuster.com/books/Why-Fish-Dont-Exist/Lulu-Miller/9781501160271",
+        "Type": "Non-Fiction"
       }
     ],
     "Electronic Games": [
@@ -769,6 +777,12 @@
         "Name": "LiquidSketch",
         "URL ": "https://apps.apple.com/us/app/liquidsketch/id544717096",
         "Notes": "Only on iPad"
+      },
+      {
+        "_id": "7f804420-d25f-11ea-a427-4f54ed67219f",
+        "Name": "Ori and the Blind Forest: Definitive Edition",
+        "Recommended by": "Jens",
+        "Type (?)": "Computer"
       }
     ]
   }
