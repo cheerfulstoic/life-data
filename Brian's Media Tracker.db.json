@@ -737,6 +737,94 @@
         "Notes": "John Green: \"Why Fish Don’t Exist is what The Anthropocene Reviewed wants to be when it grows up\"",
         "URL": "https://www.simonandschuster.com/books/Why-Fish-Dont-Exist/Lulu-Miller/9781501160271",
         "Type": "Non-Fiction"
+      },
+      {
+        "_id": "0999f8f0-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Maintaining Open Source Projects",
+        "Type": "Professional Enrichment",
+        "Notes": "In `Dropbox/Books/Maintaining Open Source Projects`"
+      },
+      {
+        "_id": "1d1e2860-dcd2-11ea-ae09-515f5e1de869",
+        "Recommended by": "http://blog.jayfields.com/2015/06/drop-books.html",
+        "Name": "Refactoring: Improving the Design of Existing Code",
+        "URL": "https://www.goodreads.com/book/show/44936.Refactoring",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "2a2879c0-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Working Effectively with Legacy Code",
+        "Recommended by": "Lots of places (including http://blog.jayfields.com/2015/06/drop-books.html )",
+        "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "40867d20-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "The Passionate Programmer",
+        "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer",
+        "Type": "Professional Enrichment",
+        "Recommended by": "http://blog.jayfields.com/2015/06/drop-books.html"
+      },
+      {
+        "_id": "53a58220-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Patterns of Enterprise Application Architecture",
+        "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture",
+        "Recommended by": "http://blog.jayfields.com/2015/06/drop-books.html",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "5c4a0860-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "The Pragmatic Programmer: From Journeyman to Master",
+        "Recommended by": "Avdi Grimm as an addition to  http://blog.jayfields.com/2015/06/drop-books.html",
+        "URL": "https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=thlafa-20&linkId=TVZZR2U7WWNRX3LC",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "68578330-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Object Thinking",
+        "Recommended by": "Avdi Grim",
+        "Notes": "Avdi: \"the most important book he's read about OOP\"",
+        "URL": "https://www.amazon.com/Object-Thinking-Developer-Reference-David-ebook/dp/B00JDMPOKM/ref=mt_kindle?_encoding=UTF8&me=",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "84c07630-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Software Tools",
+        "Recommended by": "guest on Ruby Rogues'\"What's Missing?\" Episode",
+        "URL": "https://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "9eedaa00-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Confident Ruby",
+        "URL": "http://www.confidentruby.com/",
+        "Type": "Professional Enrichment",
+        "Notes": "Dropbox/Unprocessed (34 minutes)"
+      },
+      {
+        "_id": "a3ab5920-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "Metaprogramming Elixir",
+        "URL": "",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "d49467c0-dcd2-11ea-ae09-515f5e1de869",
+        "Name": "99 Bottles of OOP",
+        "Notes": "I own it",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "53a53e90-dcd3-11ea-ae09-515f5e1de869",
+        "Name": "Articulating Design Decisions",
+        "Recommended by": "Kate Kaplan",
+        "Notes": "\"3 chapters in & 70% of the words are underlined.\"",
+        "URL": "https://twitter.com/katewkaplan/status/957465652196884486",
+        "Type": "Professional Enrichment"
+      },
+      {
+        "_id": "055845b0-dcd4-11ea-ae09-515f5e1de869",
+        "Name": "Professor Frisby's Mostly Adequate Guide to Functional Programming",
+        "Notes": "I left off here: https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch3.html#oh-to-be-pure-again\n\nhttps://hackernoon.com/crypto-curry-with-elixir-1c98a8b5f23\n\nhttps://medium.com/@iacobson/functor-flavoured-pipes-with-elixi-63500d00d59c"
       }
     ],
     "Electronic Games": [
